@@ -1,0 +1,17 @@
+{
+  "name": "lynk",
+  "version": "0.0.1",
+  "author": "Peter Henning <petreboy14@gmail.com>",
+  "description": "A social media platform written in Node.js",
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": "git://github.com/petreboy14/lynk",
+  "engines": {
+    "node": "*"
+  }
+}
